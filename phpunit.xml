@@ -10,7 +10,7 @@
         backupGlobals="false"
         colors="true">
     <testsuites>
-        <testsuite name="HelloWorld Test Suite">
+        <testsuite name="Test Suite">
             <directory>./tests/</directory>
         </testsuite>
     </testsuites>
